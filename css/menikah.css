@@ -648,14 +648,14 @@ body.preloader-site {
   background-repeat:no-repeat;
   min-height: 24rem;
 }
-/* .foto12 {
-  background-image: linear-gradient(rgba(95, 2, 2, 0.5), rgba(48, 47, 47, 0.9)), url("../image/11month.jpeg");
+.foto12 {
+  background-image: linear-gradient(rgba(95, 2, 2, 0.5), rgba(48, 47, 47, 0.9)), url("../image/1year.jpg");
   background-size: cover;
   background-position: center;
   background-repeat:no-repeat;
   min-height: 24rem;
 }
-.foto13 {
+/* .foto13 {
   background-image: linear-gradient(rgba(95, 2, 2, 0.5), rgba(48, 47, 47, 0.9)), url("../image/1year.jpeg");
   background-size: cover;
   background-position: center;
